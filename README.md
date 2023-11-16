@@ -1,6 +1,9 @@
 # OOPS_01_CPP
 Music Store Management System using C++ and MYSQL
 
+## Description
+The Music Store Management System in C++ and MySQL is a comprehensive software solution designed to streamline the operations of a music store. This project incorporates a user-friendly interface to manage various aspects of the store efficiently. It utilizes C++ for the application logic and MySQL for the database management.Aims to optimize the overall efficiency of a music store by automating routine tasks, providing insightful reports, and enhancing the overall customer and inventory management experience.
+
 ## Methodology/logic Implemented:
 First, we approached this project with an idea of a music store where a customer can buy various types
 and varieties of musical instruments .
