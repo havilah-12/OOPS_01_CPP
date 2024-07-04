@@ -20,6 +20,6 @@ parallelly stored in database.
 Exception Handling,
 Inheritance,
 Abstraction.
-Encapsulation,
+Encapsulation
  
 
